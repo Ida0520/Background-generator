@@ -1,4 +1,4 @@
- const css = document.querySelector('h3');
+const css = document.querySelector('h3');
 const [color1, color2] = document.querySelectorAll('.color')
 const body = document.querySelector('#gradient');
 const button = document.querySelector(".button");
